@@ -19,6 +19,12 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="Atualizar Registros.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Atualizar Registros.sql</FullPath>
+        </FileNode>
         <FileNode Name="Criando BD.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
@@ -43,11 +49,29 @@
           <AssociatedConnUserName />
           <FullPath>Criando Tabelas.sql</FullPath>
         </FileNode>
+        <FileNode Name="Excluindo Registros.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Excluindo Registros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Exercício 1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Exercício 1.sql</FullPath>
+        </FileNode>
         <FileNode Name="Inserindo Registros.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Inserindo Registros.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Transação Explícita.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Transação Explícita.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
