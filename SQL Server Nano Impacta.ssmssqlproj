@@ -25,6 +25,24 @@
           <AssociatedConnUserName />
           <FullPath>Atualizar Registros.sql</FullPath>
         </FileNode>
+        <FileNode Name="BETWEEN, LIKE e IN.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>BETWEEN, LIKE e IN.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Comparando Dados.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Comparando Dados.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Consultar Dados.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Consultar Dados.sql</FullPath>
+        </FileNode>
         <FileNode Name="Criando BD.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
@@ -67,11 +85,35 @@
           <AssociatedConnUserName />
           <FullPath>Inserindo Registros.sql</FullPath>
         </FileNode>
+        <FileNode Name="Junções Internas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Junções Internas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Operadores.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Operadores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Trabalhando Valores Nulos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Trabalhando Valores Nulos.sql</FullPath>
+        </FileNode>
         <FileNode Name="Transação Explícita.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Transação Explícita.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UNION.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>UNION.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
