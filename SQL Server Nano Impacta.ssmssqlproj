@@ -85,17 +85,53 @@
           <AssociatedConnUserName />
           <FullPath>Inserindo Registros.sql</FullPath>
         </FileNode>
+        <FileNode Name="Junções Externas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Junções Externas.sql</FullPath>
+        </FileNode>
         <FileNode Name="Junções Internas.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Junções Internas.sql</FullPath>
         </FileNode>
+        <FileNode Name="Junções Totais ou cruzamento cartesiano.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Junções Totais ou cruzamento cartesiano.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Manipulando dados com junções.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Manipulando dados com junções.sql</FullPath>
+        </FileNode>
         <FileNode Name="Operadores.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Operadores.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Subconsultas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Subconsultas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tabelas Globais.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Tabelas Globais.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Tabelas Temporárias.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-USHKKLF</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Tabelas Temporárias.sql</FullPath>
         </FileNode>
         <FileNode Name="Trabalhando Valores Nulos.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-USHKKLF:True</AssociatedConnectionMoniker>

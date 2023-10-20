@@ -4,7 +4,7 @@ USE Concessionaria;
 CREATE TABLE tblMarcas
 (							--identity = código auto gerado inicia em 1
 	idMarca			int			identity		primary key,
-	nomeMarca		nchar(10)	not null		unique --unique = dados únicos, uma vez guardados, só serão acrescentados mas nunca excluídos
+	nomeMarca		nchar(10)		not null		unique --unique = dados únicos, uma vez guardados, só serão acrescentados mas nunca excluídos
 );
 
 
